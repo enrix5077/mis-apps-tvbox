@@ -1,0 +1,5 @@
+{
+  "_nota": "Version MINIMA obligatoria por app. Si la caja tiene una MENOR, la app la bloquea y obliga a actualizar. Sube 'min' al versionCode del APK arreglado SOLO cuando la actualizacion sea critica (ej: YouTube rompio la extraccion). min=0 = no obliga a nadie.",
+  "com.enri.spotifytv": { "min": 0, "msg": "Hay una actualizacion necesaria para seguir usando Musica. Pulsa ACTUALIZAR AHORA para abrir la Tienda." },
+  "com.enri.freetubetv": { "min": 0, "msg": "Hay una actualizacion necesaria para seguir usando Videos. Pulsa ACTUALIZAR AHORA para abrir la Tienda." }
+}
